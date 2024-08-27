@@ -1,0 +1,23 @@
+h1,h4,h5{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 20px;
+    background-color: aqua;
+    color:palevioletred
+}
+
+h5{
+    text-align: left;
+    background-color: aquamarine;
+    font-size: 15px;
+    font-weight: 800;
+}
+h1{
+    font-size: 50px;
+}
+ul,ol,p{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: aquamarine;
+    font-size: large;
+    font-weight: bold;
+}
